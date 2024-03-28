@@ -17,7 +17,7 @@ I am a passionate and goal oriented software developer who has over the past fiv
 ### Socials
  <p align="left">  <a href="https://www.gitlab.com/goodebag" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
