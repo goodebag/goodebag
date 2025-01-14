@@ -6,7 +6,7 @@ A Solution architect and Full Stack Software Engineer
 
 I am a passionate and goal oriented software developer who has over the past five (5+) years cultivated extensive expertise in developing a diverse array of web and desktop applications. My proficiency spans across a wide spectrum of technologies including C#, .NET Core, .NET Framework, Entity Framework, ASP.NET, MVC/MVVM, Azure, React, Angular, Node.js, TypeScript, JavaScript, jQuery, Rest API, SQL, and more. My skill set encompasses various aspects of software development, including Front-end Development, Complex Databases, Back-end Development, Cloud Services, API development, integration, as well as payment gateway integration. Additionally, I possess considerable experience in providing ongoing maintenance and enhancements for applications developed on platforms such as WinForms, WebForms, and Single Page Applications (SPAs).
 
-*   🖥️  See my portfolio at [www.egbulegoodluck.ng](http://www.eslewhere.com/)
+*   🖥️  [Chat me on whatsapp](https://wa.me/+2349094096185)
 *   ✉️  You can contact me at [egbule.goodluck@gmail.com](mailto:egbule.goodluck@gmail.com)
 *   
 * ### Skills 
